@@ -52,7 +52,7 @@ const INFO = {
 				"Sistema desenvolvido para gerenciamento de fluxo e controle de atividades empresariais. Desenvolvido utilizando ASP .NET Core e React.JS",
 
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/csharp/csharp.png",
-			logo2: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+			logo2: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png",
 			linkText: "View Project",
 			link: "https://github.com",
 		},
